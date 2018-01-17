@@ -1,5 +1,7 @@
 # Cahier des charges - LJE - Les jeunes entreprises
 
+
+
 ## Présentation du client
 
 ### Qui est le client ?
@@ -33,6 +35,8 @@ Le site actuel propose un site beaucoup trop large (55 pages) qu’il faudrait f
 Le site a clairement besoin d’une refonte, d’une optimisation et d’un écrémage de son contenu afin que les informations pertinentes soient mises en avant et optimisées pour une lecture web et plus spécifiquement sur mobiles (impératif pour le public cible jeune).
 
 Le site est actuellement en partie responsive, mais pas totalement et n’est clairement pas optimisé pour un affichage sur mobile (trop de texte - menus complexes - trop de contenus réunis au sur un même site - pas de hiérarchisation cohérente des informations)
+
+
 
 
 ## Présentation globale du projet
@@ -87,5 +91,8 @@ Créer un CMS pour permettre au client de facilement mettre à jour l’agenda e
 * Besoin de simplification de la navigation.	
 * Besoin de prioriser le nombre d’inscriptions au programme.
 
+
+
+## Contenus
 
 
