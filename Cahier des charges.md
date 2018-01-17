@@ -97,5 +97,52 @@ Créer un CMS pour permettre au client de facilement mettre à jour l’agenda e
 
 ### Types de contenu
 
+Les informations à fournir par le client pour une refonte et remaniement du site sont :
+
+* Accord de fragmenter le site trop conséquent en plusieurs sites plus ciblés et particulièrement sur son activité phare : les mini-entreprises
+* Données concernant l’hébergeur (nom de l’hébergeur, identifiant, mot de passe...)
+* Personne responsable de la maintenance du site actuel (coordonnées complètes)
+* Personne ou la société qui a réalisé le site actuel (coordonnées complètes)
+* Informations concernant les images utilisées sur le site (banque d’images, photographe indépendant, autorisation des personnes figurant sur les photos...) et possibilité d’avoir accès aux images originales.
+
+### Quantité d’information
+
+Actuellement le site compte 55 pages web sans compter les liens vers d’autres plateformes pour inscription mini-entreprise et YEP.
+La multitude de pages qui constituent le site rend la recherche d’information longue et difficile et l’optimisation SEO moins performante. 
+
+Le but premier du client étant d’augmenter le nombre d’étudiants participants à son activité principale (mini-entreprise), nous prenons le parti de nous concentrer essentiellement sur cette partie du site.
+
+### Estimation du nombre de pages
+
+Dans le cadre d’un site multipages, on peut reprendre globalement la navigation interne présente dans la section programmes - mini-entreprise du site actuel.
+Le contenu texte devra être considérablement écrémé pour ne retenir que l’information principale et
+optimiser l’affichage sur support mobile et le taux d’inscription au projet.
+
+À titre d'exemple voir les maquettes proposées dans la section suivante (Rubriques - Maquettes) comportant 4 pages
+
+
+### Rubriques - Maquettes
+
+Voici une proposition d’arborescence pour le site multipages axé sur les mini-entreprises
+
+**Rubriques**
+
+* Home (Presentation succincte du projet)
+* Page de présentation des mini-entreprises 2017 reprenant 1 fiche détaillée de chaque mini entreprise (166 mini entreprises pour l’année 2017-2018 réparties sur 6 provinces)
+* Page News - Agenda - Reseaux sociaux
+* Page de contact (coordonnées personnes de contact + formulaire)
+
+L’objectif principal du client étant d’augmenter le nombre d’inscriptions pour participer aux mini-entreprises ainsi que sur les réseaux Facebook et Twitter, il est important que chaque page comporte au moins un bouton call to action pour inciter à l’inscription et au suivi des groupes Facebook et Twitter.
+
+![Vue d'ensemble 4 pages](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%202(3).png)
+
+![Home](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%203(1).png)
+
+![News - Agenda - Reseaux sociaux](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%202(4).png)
+
+![Contact](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%204(3).png)
+
+
+
 
 
