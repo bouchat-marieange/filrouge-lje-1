@@ -72,7 +72,7 @@ Créer un CMS pour permettre au client de facilement mettre à jour l’agenda e
 * Création d’une application mobile type bourse pour améliorer l’expérience mini entreprise. 
 
 
-### Type de cible :
+### Type de cible
 
 **Critère démographique** : Étudiants de 15 à 18 ans se trouvant dans la région Wallonie, Bruxelles, Luxembourg (site peut donc être en Français uniquement), aussi bien de sexe féminin de Masculin
 
