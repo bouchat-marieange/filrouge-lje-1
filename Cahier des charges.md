@@ -95,4 +95,7 @@ Créer un CMS pour permettre au client de facilement mettre à jour l’agenda e
 
 ## Contenus
 
+### Types de contenu
+
+
 
