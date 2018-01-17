@@ -121,7 +121,7 @@ optimiser l’affichage sur support mobile et le taux d’inscription au projet.
 À titre d'exemple voir les maquettes proposées dans la section suivante (Rubriques - Maquettes) comportant 4 pages
 
 
-### Rubriques - Maquettes
+## Rubriques - Maquettes
 
 Voici une proposition d’arborescence pour le site multipages axé sur les mini-entreprises
 
@@ -144,7 +144,7 @@ L’objectif principal du client étant d’augmenter le nombre d’inscriptions
 
 
 
-### Aspect visuel
+## Aspect visuel
 
 La ligne générale pour le design demandée par le client est la suivante :
 
@@ -156,7 +156,7 @@ La ligne générale pour le design demandée par le client est la suivante :
 * Penser à l’ergonomie et à l’UX particulièrement sur support mobile
 
 
-### KPI (Key Performance Indicators) du projet
+## KPI (Key Performance Indicators) du projet
 
 Le suivi des KPI suivantes devra être effectué (via Google Analytics) aux différentes étapes du projet en fonction des objectifs principaux définis par le client :
 
@@ -166,7 +166,7 @@ Le suivi des KPI suivantes devra être effectué (via Google Analytics) aux diff
 * Étant donné la prévalence des utilisateurs qui vont consulter le site et utiliser l’application via leur téléphone mobile, il faudra veiller à optimiser au mieux le temps de chargement et les performances sur lighthouse.
 
 
-### Données techniques
+## Données techniques
 
 La technologie utilisée pour la réalisation du site multipages et des autres étapes du projet fil rouge sont au choix des équipes qui en feront le développement. De nombreuses options sont possibles.
 Le mode d’hébergement de l’application sera fonction des technologies et langage(s) de programmation utilisés.
