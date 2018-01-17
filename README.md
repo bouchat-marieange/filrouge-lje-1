@@ -2,7 +2,7 @@
 
 ## Qui est le client ?
 
-[logo]: http://lje.be/images/logosLJE/LJE-Logo.jpg
+![logo LJE](http://lje.be/images/logosLJE/LJE-Logo.jpg)
 
 LJE - Les jeunes entreprises
 
