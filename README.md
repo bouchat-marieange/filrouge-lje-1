@@ -22,13 +22,11 @@ Important: Leur activité principale et leur atout majeur se situe au niveau du 
 
 ## Quels sont les problèmes à résoudrent ?
 
-Le site actuel propose un site beaucoup trop large (55 pages) qu'il faudrait fractionner en plusieurs sites afin de d'obtenir une meilleure lisibilité, un recherche plus simple des informations et un taux d'inscription plus élevé ainsi qu'un meilleur référencement par la création de liens intersites et un ciblage plus spécifique par mot clef et par public cible.
+Le site actuel propose un site beaucoup trop large (55 pages) qu'il faudrait fractionner en plusieurs sites afin de d'obtenir une meilleure lisibilité, une recherche plus simple des informations et un taux d'inscription plus élevé ainsi qu'un meilleur référencement par la création de liens intersites et un ciblage plus spécifique par mot clef et par public cible.
 
 Le site a clairement besoin d'une refonte, d'une optimisation et d'un écrémage de son contenu afin que les informations pertinentes soient mises en avant et optimisées pour une lecture web et plus spécifiquement sur mobiles (impératif pour le public cible jeunes).
 
 Le site est actuellement en partie responsive mais pas totalement et n'est clairement pas optimisé pour un affichage sur mobile (trop de texte - menus complexes - trop de contenus réunis au sur un même site - pas de hiérarchisation cohérente des informations )
 
-## Quels sont les publics cibles
 
-Les jeunes de 8 à 25 ans, et par extension les établissements scolaires dans lesquels ils suivent leurs études.
 
