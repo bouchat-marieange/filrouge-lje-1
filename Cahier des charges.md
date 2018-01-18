@@ -164,16 +164,14 @@ La ligne générale pour le design demandée par le client est la suivante :
 
 Le suivi des KPI suivantes devra être effectué (via Google Analytics) aux différentes étapes du projet en fonction des objectifs principaux définis par le client :
 
-* Taux de rebond
-* Augmentation des inscriptions aux vues des années précédentes pour les mini-entreprises
-* Augmentation du nombre de followers sur le groupe Facebook et Twitter
-* Étant donné la prévalence des utilisateurs qui vont consulter le site et utiliser l’application via leur téléphone mobile, il faudra veiller à optimiser au mieux le temps de chargement et les performances sur lighthouse.
+* Taux de rebond maximum 23 % 
+* Augmentation des inscriptions annuelles 8% aux vues des années précédentes pour les mini-entreprises
+* Augmentation du nombre de followers annuelles de 6% sur le groupe Facebook et Twitter
+* Atteindre 500 followers sur nouveau compte Instagram dès la première année
+* Atteindre un minimum de 125 inscriptions pour Beta de l'application mobile
 
 
 ## Données techniques
 
 La technologie utilisée pour la réalisation du site multipages et des autres étapes du projet fil rouge sont au choix des équipes qui en feront le développement. De nombreuses options sont possibles.
 Le mode d’hébergement de l’application sera fonction des technologies et langage(s) de programmation utilisés.
-
-
-
