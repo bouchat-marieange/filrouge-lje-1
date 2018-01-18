@@ -152,7 +152,7 @@ L’objectif principal du client étant d’augmenter le nombre d’inscriptions
 
 La ligne générale pour le design demandée par le client est la suivante :
 
-* Design épuré optimisé affichage mobile (peu de texte, image, call to action). Voir modèle one-page réalisé par Valérian :
+* Design épuré optimisé affichage mobile (peu de texte, image, call to action). Voir modèle one-page réalisé par Valérian :https://valerianthomas.github.io/LJE-mini-entreprise/
 * Menu minimaliste et clair
 * Attention le logo original doit être conservé, celui-ci contient de nombreuses couleurs. Il est très bien mis en valeur sur un fond plus neutre ou photo noir/blanc.
 * Éviter de multiplier les couleurs pour garder une unité graphique
