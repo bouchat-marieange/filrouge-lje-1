@@ -1,8 +1,8 @@
-#Liste Debriefs journaliers
+# Liste Debriefs journaliers
 
 **Groupe2 (Valerian Thomas, Marie-Ange Bouchat, Vincent Nassaux) - Phase 1 : (managed style) : étude de la demande**
 
-# Debrief session travail du lundi 15/01/2018 (14h00 - 17h00) 
+## Debrief session travail du lundi 15/01/2018 (14h00 - 17h00) 
 
 * Relecture attentive de la totalité de l'énoncé du [Projet Fil Rouge](https://github.com/becodeorg/Lovelace-promo-2/blob/master/Projects/fil-rouge/readme.md) pour appréhender le projet dans sa globalité.
 
