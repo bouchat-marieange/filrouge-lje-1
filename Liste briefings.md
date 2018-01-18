@@ -1,6 +1,6 @@
 # Liste Debriefs journaliers
 
-**Groupe2 (Valerian Thomas, Marie-Ange Bouchat, Vincent Nassaux) - Phase 1 : (managed style) : étude de la demande**
+**Groupe 2 (Valerian Thomas, Marie-Ange Bouchat, Vincent Nassaux) - Phase 1 : (managed style) : étude de la demande - temps imparti: 2 jours (repartis sur 4 demi-journées)**
 
 ## Debrief session travail du lundi 15/01/2018 (14h00 - 17h00) 
 
