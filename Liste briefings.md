@@ -60,3 +60,20 @@
 * Rédaction du briefing de la journée.
 
 
+## Debrief session travail du jeudi 16/01/2018 (14h00 - 17h00)
+
+* Réunion individuelle avec coachs pour résolution problème abandon Vincent.
+
+* Relecture du cahier des charges, ajout et dernières modifs.
+
+* Rédaction Liste reprenant tous les briefiings
+
+* Rédaction document reprenant toutes les questions posées au client
+
+* Rédaction du briefing de la journée
+
+* Livraison des délivrables demandés à l'équipe du groupe 3 + communication orale du mot de passe gmail
+
+
+
+
