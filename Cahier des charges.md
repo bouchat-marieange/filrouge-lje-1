@@ -138,9 +138,13 @@ L’objectif principal du client étant d’augmenter le nombre d’inscriptions
 
 ![Home](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%203(1).png)
 
-![News - Agenda - Reseaux sociaux](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%202(4).png)
+![Liste des minis](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%202(4).png)
+
+![News social wall](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%205.png)
 
 ![Contact](https://github.com/ValerianThomas/filrouge-lje/blob/master/Pre-maquette/Group%204(3).png)
+
+
 
 
 
