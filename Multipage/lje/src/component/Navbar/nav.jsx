@@ -9,8 +9,8 @@ class nav extends Component {
               <NavItem href='get-started.html'>Présentation</NavItem>
               <NavItem href='components.html'>Actualités</NavItem>
               <NavItem href='get-started.html'>Entreprise 2016-2018</NavItem>
-              <NavItem href='components.html'>Actualités</NavItem>
-              <NavItem href='components.html'>Actualités</NavItem>
+              <NavItem href='components.html'>Outils en ligne</NavItem>
+              <NavItem href='components.html'>Contact</NavItem>
           </Navbar>
       </div>
     );
