@@ -1,6 +1,6 @@
 import React from 'react'
 
-var Entreprise20162018 = React.createClass({
+const Entreprise20162018 = ()=>({
     render: function() {
       return (
         <section className="article-content clearfix" itemProp="articleBody">
