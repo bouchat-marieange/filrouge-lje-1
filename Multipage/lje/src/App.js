@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-/*import './App.css';
-import '../../nav.jsx';*/
+/*import './App.css';*/
+import '../../nav.jsx';
 
 class App extends Component {
   render() {
