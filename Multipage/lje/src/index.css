@@ -1,5 +1,9 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+.nav-wrapper {
+  background-color: rgb(38, 103, 189);
+  color: black;
+  font-weight: bold;
+  height: 60%;
+  width: 20%;
+  position: fixed;
 }
+

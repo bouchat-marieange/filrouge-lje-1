@@ -20,7 +20,7 @@ const Contact = ()=> ({
                 <td colSpan={3}><span style={{fontSize: '18pt'}}><strong>Coordinateur du Brabant Wallon</strong></span></td>
               </tr>
               <tr>
-                <td style={{width: '33%'}} valign="middle"><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Frederic-200x200.png" alt="Frédéric Mesmaker - Coordinateur de la province du Brabant Wallon" style={{marginRight: 5, float: 'left'}} title="Frédéric Mesmaker - Coordinateur de la province du Brabant Wallon" width={200} height={200} /></td>
+                <td style={{width: '33%'}} valign="middle"><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Frederic-200x200.png" alt="Frédéric Mesmaker - Coordinateur de la province du Brabant Wallon" style={{marginRight: 5, float: 'left'}} title="Frédéric Mesmaker - Coordinateur de la province du Brabant Wallon" width={200} height={200} /></td>
                 <td style={{width: '34%'}} valign="top">
                   <p>&nbsp;</p>
                   <p><strong>Frédéric Mesmaker</strong></p>
@@ -62,7 +62,7 @@ const Contact = ()=> ({
                   <td colSpan={3}><span style={{fontSize: '18pt'}}><strong>Coordinatrice du Hainaut </strong></span></td>
                 </tr>
                 <tr>
-                  <td style={{width: '33%'}}><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Clara-200x200-Arrondi.png" alt="Clara Jates - Coordinatrice de la province du Hainaut" style={{marginRight: 5, float: 'left'}} title="Clara Jates - Coordinatrice de la province du Hainaut" /></td>
+                  <td style={{width: '33%'}}><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Clara-200x200-Arrondi.png" alt="Clara Jates - Coordinatrice de la province du Hainaut" style={{marginRight: 5, float: 'left'}} title="Clara Jates - Coordinatrice de la province du Hainaut" /></td>
                   <td style={{width: '34%'}} valign="top">
                     <p>&nbsp;</p>
                     <p><strong>Clara Jates</strong></p>
@@ -105,7 +105,7 @@ const Contact = ()=> ({
                   <td colSpan={3}><span style={{fontSize: '18pt'}}><strong>Coordinateur de Liège et du Luxembourg</strong></span></td>
                 </tr>
                 <tr>
-                  <td style={{width: '33%'}}><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Nicolas-200x200.png" alt="Nicolas Godefroid - Coordinateur de la province de Liège et du Luxembourg" style={{marginRight: 5, float: 'left'}} title="Nicolas Godefroid - Coordinateur de la province de Liège et du Luxembourg" /></td>
+                  <td style={{width: '33%'}}><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Nicolas-200x200.png" alt="Nicolas Godefroid - Coordinateur de la province de Liège et du Luxembourg" style={{marginRight: 5, float: 'left'}} title="Nicolas Godefroid - Coordinateur de la province de Liège et du Luxembourg" /></td>
                   <td style={{width: '34%'}} valign="top">
                     <p>&nbsp;</p>
                     <p><strong>Nicolas Godefroid</strong></p>
@@ -153,7 +153,7 @@ const Contact = ()=> ({
                   <td colSpan={3}><span style={{fontSize: '18pt'}}><strong>Coordinateur de Namur </strong></span></td>
                 </tr>
                 <tr>
-                  <td style={{width: '33%'}}><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Robert-200x200.png" alt="Robert Dion - Coordinateur de la province de Namur" style={{marginRight: 5, float: 'left'}} title="Robert Dion - Coordinateur de la province de Namur" /></td>
+                  <td style={{width: '33%'}}><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Robert-200x200.png" alt="Robert Dion - Coordinateur de la province de Namur" style={{marginRight: 5, float: 'left'}} title="Robert Dion - Coordinateur de la province de Namur" /></td>
                   <td style={{width: '34%'}} valign="top">
                     <p>&nbsp;</p>
                     <p><strong>Robert Dion</strong></p>
@@ -187,10 +187,10 @@ const Contact = ()=> ({
                   <td colSpan={4}><span style={{fontSize: '18pt'}}><strong>Coordinateurs de Bruxelles</strong></span></td>
                 </tr>
                 <tr>
-                  <td align="center"><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Claire-200x200-Arrondi.png" alt="Claire Liebmann" style={{marginRight: 5}} title="Claire Liebmann" align="middle" /></td>
-                  <td align="center"><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Davy-200x200.png" alt="Davy Courteaux" style={{marginRight: 5}} title="Davy Courteaux" align="middle" /></td>
-                  <td align="center"><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Henri-200x200.png" alt="Henri Arnal" style={{marginRight: 5}} title="Henri Arnal" align="middle" /></td>
-                  <td align="center"><img src="/images/Systeme/Contacts%20Personnel/Contact-Mini/Samuel-200x200.png" alt="Samuel D'Ours" style={{marginRight: 5}} title="Samuel D'Ours" align="middle" /></td>
+                  <td align="center"><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Claire-200x200-Arrondi.png" alt="Claire Liebmann" style={{marginRight: 5}} title="Claire Liebmann" align="middle" /></td>
+                  <td align="center"><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Davy-200x200.png" alt="Davy Courteaux" style={{marginRight: 5}} title="Davy Courteaux" align="middle" /></td>
+                  <td align="center"><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Henri-200x200.png" alt="Henri Arnal" style={{marginRight: 5}} title="Henri Arnal" align="middle" /></td>
+                  <td align="center"><img src="http://www.lje.be/images/Systeme/Contacts%20Personnel/Contact-Mini/Samuel-200x200.png" alt="Samuel D'Ours" style={{marginRight: 5}} title="Samuel D'Ours" align="middle" /></td>
                 </tr>
                 <tr>
                   <td align="center">

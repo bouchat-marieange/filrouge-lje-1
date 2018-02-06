@@ -1,28 +1,44 @@
+
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import registerServiceWorker from './registerServiceWorker';
-// Rooter
-import { BrowserRouter as Router, Route, NavLink, Switch } from 'react-router-dom';
-import { Navbar} from 'react-materialize';
+import App from './App';
+import Actualite from './component/Actualite/Actualite';
+import Entreprise20162018 from './component/Entreprise20162018/Entreprise20162018';
+import Outil from './component/Outil/Outil';
+import Contact from './component/Contact/Contact';
+import Header from './component/Header';
+import Footer from './component/footer';
+import {BrowserRouter as Router, Route, Switch, NavLink} from 'react-router-dom';
+import './index.css';
+import {Navbar} from 'react-materialize';
+
+
 
 const Root = () => {
     return (
         <Router>
-            <div>
-                <Navbar brand='logo' right>
-                    <NavLink to='/'>Présentation</NavLink>
-                    <NavLink to='components.html'>Actualités</NavLink>
-                    <NavLink to='get-started.html'>Entreprise 2016-2018</NavLink>
-                    <NavLink to='components.html'>Outils en ligne</NavLink>
-                    <NavLink to='components.html'>Contact</NavLink>
+            <div id="test" >
+                <Header/>
+                <Navbar>
+                    <NavLink to="/App">Présenation des minis entreprises</NavLink>
+                    <NavLink to="/Actualite">Actualités des minis entreprises</NavLink>
+                    <NavLink to="/entreprise20162018">Entreprise20162018</NavLink>
+                    <NavLink to="/Outil">Outils en ligne</NavLink>
+                    <NavLink to="/Contact">Contact Coordinateur</NavLink>
                 </Navbar>
-                <hr />
-                <Switch>
-                    <Route exact path='/' component={ App } />
-                    {/*<Route exact path='/Pseudo' component={ qqch } />
-                    <Route component={ Qqch } />*/}
-                </Switch>
+                <div className="content">
+                    <Switch>
+                        <Route exact path='/App' component={App}/>
+                        <Route exact path='/Actualite' component={Actualite}/>
+                        <Route exact path='/Entreprise20162018' component={Entreprise20162018}/>
+                        <Route exact path='/Outil' component={Outil}/>
+                        <Route exact path='/Contact' component={Contact}/>
+                        
+                       
+                    </Switch>
+                </div>
+                <Footer/>
             </div>
         </Router>
     )
@@ -30,4 +46,3 @@ const Root = () => {
 
 ReactDOM.render(<Root/>, document.getElementById('root'));
 registerServiceWorker();
-

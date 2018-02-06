@@ -6,6 +6,7 @@ export default class Presentation extends React.Component {
 	render(){
 
 		return(
+			<div>
 				<h1>Mini-Entreprise</h1>
 				<h2>Présentation Mini-Entreprise</h2>
 				<h3>Vivez une année entrepreneuriale enrichissante</h3>
@@ -13,7 +14,7 @@ export default class Presentation extends React.Component {
 
 Avec la Mini-Entreprise, ils devront assurer la création et la gestion d’une entreprise de petite taille en quelques mois, pendant l’année scolaire.
 
-Les mini-entrepreneurs développeront des compétences en occupant des postes clés dans les départements ressources humaines, financier, technique, commercial; en collaborant au management, à la publicité, au marketing, à la comptabilité, aux techniques de vente, …<p>
+Les mini-entrepreneurs développeront des compétences en occupant des postes clés dans les départements ressources humaines, financier, technique, commercial; en collaborant au management, à la publicité, au marketing, à la comptabilité, aux techniques de vente, …</p>
 				
 			<p>Télécharger ici la brochure de présentation des Mini-Entreprises</p>
 			<p>Gérez votre projet en équipe</p>
@@ -61,7 +62,7 @@ Les mini-entrepreneurs développeront des compétences en occupant des postes cl
 			</ul>
 			<p>Télécharger ici la Revue des Mini-Entreprises</p>
 			
-ESP
+<p>ESP
 ESP - Un certificat pour valider vos compétences entrepreneuriales
 
 ESP Logo smallEntrepreneurial Skills Pass
@@ -72,7 +73,9 @@ Aimeriez-vous voir les compétences acquises lors de votre expérience de mini-e
 L'Entrepreneurial Skill Pass (ESP) est un nouveau certificat international qui atteste l'acquisition par les mini-entrepreneurs de connaissances, d'aptitudes et de compétences relatives à l'entrepreneuriat et recherchées par les employeurs.
 pour plus d'informations : http://entrepreneurialskillspass.eu/
 
-
+</p>
+			</div>
+				
 			);
 
 
