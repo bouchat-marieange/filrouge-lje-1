@@ -24,13 +24,13 @@ const Root = () => {
                 <Navbar>
                     <NavLink to="/App">Présenation des minis entreprises</NavLink>
                     <NavLink to="/Actualite">Actualités des minis entreprises</NavLink>
-                    <NavLink to="/entreprise20162018">Entreprise20162018</NavLink>
+                    <NavLink to="/entreprise20162018">Les minis Entreprise2016-2018</NavLink>
                     <NavLink to="/Outil">Outils en ligne</NavLink>
                     <NavLink to="/Contact">Contact Coordinateur</NavLink>
                 </Navbar>
                 <div className="content"  style={{marginTop:'100px'}}>
                     <Switch>
-                        <Route exact path='/App' component={App}/>
+                        <Route exact path='/' component={App}/>
                         <Route exact path='/Actualite' component={Actualite}/>
                         <Route exact path='/Entreprise20162018' component={Entreprise20162018}/>
                         <Route exact path='/Outil' component={Outil}/>
