@@ -7,9 +7,9 @@ export default class Footer extends React.Component {
 
 		return(
 			<div>
-				<section>
+				<section id="foot">
 			<div id= "contact">
-							<h2>CONTACT</h2>
+							<h5>CONTACT</h5>
 
 				<p>Les Jeunes Entreprises ASBL
 				Rue Dr Elie Lambotte 10 - 1030 Bruxelles</p>
@@ -22,12 +22,9 @@ export default class Footer extends React.Component {
 				 
 				<p>IBAN: BE66 2100 4390 1343</p>
 			</div>
-			<div id="recherche">
-				RECHERCHER SUR LE SITE
-				Rechercher
-			</div>
+			
 			<div id="follow">
-				<h2>REJOIGNEZ-NOUS SUR:</h2>
+				<h5>REJOIGNEZ-NOUS SUR:</h5>
 					<a href="https://www.facebook.com/LJE.MiniEntreprise"><img src="http://www.lje.be/images/logosLJE/facebook_icon.png" alt="facebook lien" /></a>
 					<a href="https://twitter.com/ASBL_LJE"><img src="http://www.lje.be/images/logosLJE/tweeter_icon.png" alt="tweeter lien"/></a>
 					<a href="https://www.youtube.com/channel/UCJRtDIiosuEJOCZCt3JaEQA"><img src="http://www.lje.be/images/logosLJE/youtube_icon.png" alt="YouTube lien"/></a>

@@ -20,6 +20,7 @@ const Root = () => {
         <Router>
             <div id="test" >
                 <Header/>
+                <div className="bg" style={{position:'absolute', width:'20%',height:'100vh',  backgroundColor: 'rgb(38, 103, 189)'}}></div>
                 <Navbar>
                     <NavLink to="/App">Présenation des minis entreprises</NavLink>
                     <NavLink to="/Actualite">Actualités des minis entreprises</NavLink>
@@ -27,7 +28,7 @@ const Root = () => {
                     <NavLink to="/Outil">Outils en ligne</NavLink>
                     <NavLink to="/Contact">Contact Coordinateur</NavLink>
                 </Navbar>
-                <div className="content">
+                <div className="content"  style={{marginTop:'100px'}}>
                     <Switch>
                         <Route exact path='/App' component={App}/>
                         <Route exact path='/Actualite' component={Actualite}/>
