@@ -1,29 +1,24 @@
 import React, { Component } from 'react';
-import Presentation from './component/Presenation/Presentation';
-
-
+<<<<<<< Updated upstream
 /*import './App.css';
 import '../../nav.jsx';*/
-
+=======
 import './App.css';
-
-
-
+import Nav from "./component/Navbar/Nav";
+>>>>>>> Stashed changes
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-          <Presentation/>
-
-          
-
-        
-
+<<<<<<< Updated upstream
+          <h1>Steve</h1>
+=======
+        <Nav/>
+>>>>>>> Stashed changes
       </div>
     );
   }
 }
 
 export default App;
- 

@@ -1503,11 +1503,11 @@
     <handled-path value="$PROJECT_DIR$/Multipage/lje/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="65" />
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="992" />
+    <option name="y" value="-4" />
     <option name="width" value="928" />
-    <option name="height" value="1056" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1610,7 +1610,6 @@
       <option name="presentableId" value="Default" />
       <updated>1517404852286</updated>
       <workItem from="1517404855001" duration="843000" />
-      <workItem from="1517837027616" duration="165000" />
     </task>
     <servers />
   </component>
@@ -1620,15 +1619,6 @@
 =======
     <option name="totallyTimeSpent" value="3553000" />
 >>>>>>> Stashed changes
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="928" height="1056" extended-state="4" />
