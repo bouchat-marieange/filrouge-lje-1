@@ -72,14 +72,6 @@ Temps imparti: 30 jours, en groupe.
 
 
 
-Phase 4 : développement d'un Backoffice (CMS)
-
-Repository Github à forker (multipage): https://github.com/stevegravy/filrouge-lje Site multipage réalisé à la phase 3 : https://filrougeg1.herokuapp.com/
-
-Date d'attribution du projet: le 9 février 2018 Deadline de remise de la phase 4 Projet Fil Rouge: le 9 mars 2018
-
-Réaliser un CMS de A à Z via MVC framework (pour voir le CRUD) Base de données Ajax
-
 
 
 
