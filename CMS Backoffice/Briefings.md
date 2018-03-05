@@ -58,5 +58,27 @@
 * Analyse de la structure du site multipages déja existant pour pourvoir y intégrér le CMS en PHP/MySQL 
 
 
+# Briefing du 5 mars 2018
 
+## Etat des lieux
+
+**Personnes présentes:** Antoine, Nicolas, Marie-Ange
+
+## Etat des lieux
+
+* 
+
+## Dispatching des différentes tâches
+
+**Antoine:** 
+
+* 
+
+**Marie-Ange:** 
+
+* 
+ 
+**Nicolas:** 
+
+* 
 
