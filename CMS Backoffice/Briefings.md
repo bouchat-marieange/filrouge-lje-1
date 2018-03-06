@@ -66,7 +66,9 @@
 
 ## Etat des lieux
 
-* 
+* Le site des jeunes entreprises ont un section Actualités qui reprend principalement des évènements à venir en détails, il possède également une section agenda qui se présente sous la forme d'un simple google agenda (titre et date de l'évènement sans plus de détails - http://www.lje.be/index.php/fr/accueil/agenda).
+
+L'objectif pédagogique étant d'intégrer les opérations CRUD, après concertation avec notre coach, il a été décidé d'appliquer les opérations CRUD uniquement sur la page Actualités qui est la plus complexe et de faire un simple link vers le google agenda existant sur la page Agenda de notre site.
 
 ## Dispatching des différentes tâches
 
