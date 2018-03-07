@@ -198,23 +198,28 @@ document: REGLEMENT-VENTE.PDF
 
 id:
 
-Nom de l'évenement:
+Nom de l'évenement: Concours de communiqué de presse pour les Mini-Entreprises
 
-date_debut:
+date_debut:/
 
-date_fin:
+date_fin:/
 
-heure_debut:
+heure_debut:/
 
-heure_fin:
+heure_fin:/
 
-lieu:
+lieu: Journal Le Soir
 
-description:
+description: Et voilà, la rédaction du journal Le Soir a tranché et les 5 gagnants du concours du communiqué de presse ont été révélés dans l'édition de ce week-end (cahier Références).
 
-image:
+Bravo à FluOriginal, Groovies, Liqu'eat, PorBinx et Team Protect !
 
-document: 
+Leurs communiqués seront publiés dans l'édition électronique du journal.
+
+image: 27857920_2406822422710312_5616420497072577441_n (1).png
+(https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/27857920_2406822422710312_5616420497072577441_n.png?oh=e4765f58243989fb0685ca8cf54d03d2&oe=5B169789)
+
+document: /
 
 
 
@@ -222,20 +227,61 @@ document:
 
 id:
 
-Nom de l'évenement:
+Nom de l'évenement: Les Assemblées Générales Constitutives des Mini-Entreprises
 
-date_debut:
+date_debut: 2017/11/16 (16 novembre 2017)
 
-date_fin:
+date_fin: 2017/12/01 (1 décembre 2017)
 
-heure_debut:
+heure_debut:/
 
-heure_fin:
+heure_fin:/
 
-lieu:
+lieu: Endroits selectionnés par les mini-entreprises pour leur AG
 
 description:
 
-image:
+Le temps de la présentation de vos projets à vos actionnaires approche à grands pas!
 
-document: 
+Afin d’être prêt pour le jour J, nous vous invitons à lire attentivement les recommandations reprises dans les fichiers ci-dessous.
+
+Pour préparer au mieux votre présentation, vous pouvez vous baser sur la fiche ressource Le Business Plan de ma Mini-Entreprise et vous pouvez consulter la présentation Préparer une bonne Assemblée Générale, et / ou visualiser notre Live Facebook qui se tiendra ce mercredi 25 octobre.
+
+N'oubliez pas également de lire le code de bonne conduite des AG, afin d’assurer le bon déroulement des assemblées, Nous nous permettons d’insister sur le respect de celui-ci car il permet le bon déroulement des différentes séances.
+
+Nous vous conseillons de commencer dès maintenant à préparer votre Assemblée Générale, car certaines étapes, comme la convocation des actionnaires, doivent être réalisées au plus vite.
+
+N’hésitez pas à en parler avec votre coach afin de préparer au mieux votre AG!
+
+Nous vous souhaitons une bonne préparation de cette étape importante de la vie de votre Mini!
+
+ 
+
+Les Assemblées Générales Bruxelles:
+
+Bruxelles
+Les Assemblées Générales se tiendront du 16 novembre au 1er décembre dans les différentes communes de la Région de Bruxelles-Capitale (voir les lieux et dates dans le fichier ci-dessous). Les 1er partie des AG se déroulent à 18h30, prévoyez donc d'arriver 30 minutes à l'avance pour avoir le temps de vous préparer, même chose pour les 2ème partie qui se déroulent à 20h30, soyez sur place à 20h pour avoir le temps de tout mettre en place.
+Save the date :
+
+ 	Uccle	16/11 et 20/11
+	Ixelles	17/11 et 24/11
+ 	Auderghem	20/11
+ 	Etterbeek	21/11
+ 	Watermael	22/11
+ 	Schaerbeek	23/11
+ 	Woluwe Saint-Pierre	23/11
+ 	Bruxelles	27/11
+ 	Anderlecht	29/11
+ 	Forest	29/11
+ 	Woluwe Saint-Lambert	29/11
+ 	Jette	30/11
+ 	Autres communes	à l'ULB le 01/12
+
+image:AG_constitutive.png
+(http://www.lje.be/images/AG_constitutive.png)
+
+
+document: Bruxelles-AG-Constitutives-par-numero-Mini.pdf
+(http://www.lje.be/Mini-Entreprise/Saison-2017-2018/AG-Constitutive/Bruxelles/Bruxelles-AG-Constitutives-par-numero-Mini.pdf)
+
+

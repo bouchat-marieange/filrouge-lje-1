@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client :  localhost
--- Généré le :  Mar 06 Mars 2018 à 16:36
+-- Généré le :  Mer 07 Mars 2018 à 11:28
 -- Version du serveur :  5.7.21-0ubuntu0.16.04.1
 -- Version de PHP :  7.0.25-0ubuntu0.16.04.1
 
@@ -29,9 +29,9 @@ SET time_zone = "+00:00";
 CREATE TABLE `actualités` (
   `id` int(11) NOT NULL,
   `nom_evenement` varchar(255) CHARACTER SET utf8 NOT NULL,
-  `date_debut` date NOT NULL,
+  `date_debut` date DEFAULT NULL,
   `date_fin` date DEFAULT NULL,
-  `heure_debut` time NOT NULL,
+  `heure_debut` time DEFAULT NULL,
   `heure_fin` time DEFAULT NULL,
   `lieu` varchar(255) CHARACTER SET utf8 NOT NULL,
   `description` text CHARACTER SET utf8,
