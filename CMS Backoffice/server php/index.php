@@ -6,8 +6,8 @@ $f3->route('GET /',function() {
 
 });
 $f3->route('GET /admin',function() {
-  echo \Template::instance()->render('index.html');
-
+  //echo \Template::instance()->render('');
+  echo "coucou ! ";
 });
 
 $f3->set('ONERROR',function($f3){
@@ -19,8 +19,8 @@ $f3->set('ONERROR',function($f3){
      //echo("Content-Type:".mime_content_type('./'.$info["path"]));
     // $finfo = finfo_open(FILEINFO_MIME_TYPE);
      //echo finfo_file($finfo, "./$info[path]");
-     header("Content-Type:".mime_content_type("./$info[path]"));
-     readfile("./$info[path]");
+     //header("Content-Type:".mime_content_type("./$info[path]"));
+     //readfile("./$info[path]");
    }else{
      echo \Template::instance()->render('index.html');
    }
