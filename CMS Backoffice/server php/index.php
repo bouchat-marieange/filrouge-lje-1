@@ -10,6 +10,7 @@ $f3->route('GET /',function() {
 });
 $f3->route('GET /json/actualite/list',function() {
     header('Content-Type: application/json');
+    header("Access-Control-Allow-Origin: *");
     echo json_encode(get_actu());
 });
 
