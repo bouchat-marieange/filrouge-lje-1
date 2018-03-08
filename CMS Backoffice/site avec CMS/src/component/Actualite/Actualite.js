@@ -149,7 +149,7 @@ const Actualite = ()=>({
                   {/* Aside */}
                   {/* //Aside */}
                   <section className="article-intro clearfix">
-                    <p style={{textAlign: 'justify'}}><img src="/images/Mini-Entreprise/saison-2016-2017/Concours/Mini-Concours-Logo.png" alt style={{marginRight: 5, float: 'left'}} width={400} height={267} />LJE vous invite à participer au concours de création de logo pour votre Mini-Entreprise.</p>
+                    <p style={{textAlign: 'justify'}}><img src="/images/Mini-Entreprise/saison-2016-2017/Concours/Mini-Concours-Logo.png" alt="concours" style={{marginRight: 5, float: 'left'}} width={400} height={267} />LJE vous invite à participer au concours de création de logo pour votre Mini-Entreprise.</p>
                     <p style={{textAlign: 'justify'}}><strong>Il vous suffit de nous envoyer le logo de votre Mini-Entreprise et de décrire votre vision, le message que vous voulez véhiculer à travers lui, en une dizaine de lignes.</strong></p>
                     <p style={{textAlign: 'justify'}}>A remporter : <strong>des places de cinéma !</strong></p>
                   </section>
