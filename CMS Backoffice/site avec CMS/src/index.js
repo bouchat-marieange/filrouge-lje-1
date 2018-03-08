@@ -32,7 +32,7 @@ const Root = () => {
                     <NavLink to="/Contact">Contact Coordinateur</NavLink>
                 </Navbar>
 
-                <div className="bg" style={{position:'absolute', zIndex:'-3', width:'20%', height: 'auto !important', height:'100%', minHeight: '100%', margin:'0', padding: '0',backgroundColor:'rgb(38, 103, 189)'}}></div>
+                <div className="bg" style={{position:'absolute', zIndex:'-3', width:'20%', height:'100vh', minHeight: '100%', margin:'0', padding: '0',backgroundColor:'rgb(38, 103, 189)'}}></div>
 
                 <div className="content"  style={{marginTop:'100px'}}>
                     <Switch>

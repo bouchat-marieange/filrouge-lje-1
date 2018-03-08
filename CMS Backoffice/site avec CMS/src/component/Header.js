@@ -6,11 +6,9 @@ const Header=()=>({
         return(
             <div id="header">
                 <div className="float">
-                    <input id="mail-input" placeholder="votre adresse mail"></input>
-                    <input id="password-input" placeholder="votre mot de passe"></input>
-                    <button id="enregistrer-input">S'enregistrer</button>
+                    <img style={{width:'20%', height:'20%'}} id="logo_lje" src="http://www.lje.be/images/logosLJE/LJE-Logo.jpg" alt="logo LJE"/>
                 </div>
-                
+
             </div>
         )
     }

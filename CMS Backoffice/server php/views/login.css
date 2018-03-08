@@ -5,25 +5,51 @@
 
 #container
 {
-
+  background-color: #FAFAFA;
+  width: 80%;
+  margin: auto;
+  margin-top: 150px;
+  border-radius: 50px;
 }
 
 #logo
 {
+  display: block;
+}
+
+#logo_lje
+{
+  width: 50%;
+  height:50%;
+  transform: translateX(50%);
+}
+
+label
+{
+  position: relative;
+  display: block;
 
 }
 
 #form_login
 {
-
+  text-align: center;
 }
 
 .champs
 {
-  margin-bottom:55px;
+  margin-bottom:30px;
+}
+
+input
+{
+  border-radius: 10px;
+  height: 30px;
 }
 
 #bouton_seconnecter
 {
-
+  color: #fff;
+  background-color: #A6A6A6;
+  border-radius:50px;
 }
