@@ -14,6 +14,9 @@ function create_actu($a)
 }
 function update_actu($champs)
 {
+  $bdd=db();
+  $req->prepare("UPDATE actualites SET (nom_evenement,date_debut,date_fin,heure_debut,heure_fin,lieu,description,image,document) VALUES(:nom_evenement,:date_debut,:date_fin,:heure_debut,:heure_fin,:lieu,:description,:image,:document) WHERE id= :id");
+  $res=$req->exec(["nom_evenement"]);
 
 }
  ?>
