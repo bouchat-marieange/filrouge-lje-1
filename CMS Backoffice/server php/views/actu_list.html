@@ -5,8 +5,8 @@
     <title></title>
   </head>
   <body>
-    <repeat group="{{ @all_actu }}" value="{{ @fruit }}">
-        <p>{{@fruit}}</p>
+    <repeat group="{{ @all_actu }}" value="{{ @actu }}">
+      <a href="actualite/id/{{@actu.id}}">{{@actu.nom_evenement}}</a>
     </repeat>
 
   </body>

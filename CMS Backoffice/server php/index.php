@@ -25,9 +25,8 @@ $f3->route('POST /admin/login',function() {
   }else{
     $f3->reroute('/admin');
   }
-  echo "coucou ! ";
 });
-$f3->route('GET /admin/actualite/list',function() {
+$f3->route('GET /admin/actu_list',function($f3) {
   $f3->set("all_actu",get_actu());
   echo \Template::instance()->render('views/actu_list.html');
 });
@@ -36,12 +35,20 @@ $f3->route('GET /admin/actualite/id/@id',function() {
 });
 $f3->route('POST /admin/actualite/edit/@id',function() {
   //echo \Template::instance()->render('');
-  echo "coucou ! ";
+});
+$f3->route('GET /admin/actualite/new',function() {
+  //echo \Template::instance()->render('');
+});
+$f3->route('POST /admin/actualite/new',function($f3) {
+  $f3->("id",create_actu($_POST));
+  $f3->reroute('/admin/actualite/id/@id');
 });
 
 $f3->set('ONERROR',function($f3){
   //echo \Template::instance()->render('error.html');
    $info = parse_url($_SERVER['REQUEST_URI']);
+   //var_dump($_SERVER['REQUEST_URI']);
+   var_dump($f3->get("ERROR"));
    http_response_code(200);
    if (file_exists( "./$info[path]")) {
      //echo("Content-Type:".mime_content_type('./'.$info["path"]));
