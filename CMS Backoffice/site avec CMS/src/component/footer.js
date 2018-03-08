@@ -8,21 +8,26 @@ export default class Footer extends React.Component {
 		return(
 			<div>
 				<section id="foot">
-			<div id= "contact">
+			<div id= "contact" style={{paddingLeft:'25px',width:'400px'}}>
 							<h5>CONTACT</h5>
 
-				<p>Les Jeunes Entreprises ASBL
-				Rue Dr Elie Lambotte 10 - 1030 Bruxelles</p>
-				 
+				<p>
+				Les Jeunes Entreprises ASBL<br />
+				Rue Dr Elie Lambotte 10 <br />
+				1030 Bruxelles</p>
+
 				 <p> 02/245 13 80</p>
-				 
-				<p> mail </p>
-				 
+
+				<p style={{fontWeight:'bold'}}>
+					Mail :
+				</p>
+				<p>info@lje.be</p>
+
 				<p>N°de compte LJE</p>
-				 
+
 				<p>IBAN: BE66 2100 4390 1343</p>
 			</div>
-			
+
 			<div id="follow">
 				<h5>REJOIGNEZ-NOUS SUR:</h5>
 					<a href="https://www.facebook.com/LJE.MiniEntreprise"><img src="http://www.lje.be/images/logosLJE/facebook_icon.png" alt="facebook lien" /></a>
@@ -37,7 +42,7 @@ export default class Footer extends React.Component {
 
 			</div>
 
-			
+
 
 
 
