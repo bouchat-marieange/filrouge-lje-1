@@ -1,6 +1,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import registerServiceWorker from './registerServiceWorker';
 import App from './App';
 import Actualite from './component/Actualite/Actualite';
@@ -22,7 +23,7 @@ const Root = () => {
                 <Header/>
                 <div className="bg" style={{position:'absolute', width:'20%',height:'100vh',  backgroundColor: 'rgb(38, 103, 189)'}}></div>
                 <Navbar>
-                    <NavLink to="/App">Présenation des minis entreprises</NavLink>
+                    <NavLink to="/App">Présentation des minis entreprises</NavLink>
                     <NavLink to="/Actualite">Actualités des minis entreprises</NavLink>
                     <NavLink to="/entreprise20162018">Les minis Entreprise2016-2018</NavLink>
                     <NavLink to="/Outil">Outils en ligne</NavLink>
@@ -35,8 +36,8 @@ const Root = () => {
                         <Route exact path='/Entreprise20162018' component={Entreprise20162018}/>
                         <Route exact path='/Outil' component={Outil}/>
                         <Route exact path='/Contact' component={Contact}/>
-                        
-                       
+
+
                     </Switch>
                 </div>
                 <Footer/>

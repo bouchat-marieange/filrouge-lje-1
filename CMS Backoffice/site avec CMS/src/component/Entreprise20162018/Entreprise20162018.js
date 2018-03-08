@@ -9,7 +9,7 @@ const Entreprise20162018 = ()=>({
                 <table cellSpacing={0} cellPadding={0} border={0}>
                 <tbody>
                     <tr>
-                    <td><iframe src="https://www.google.com/maps/d/embed?mid=1TKMDluG9jeRmYv53jy9M5c6tWQg" width={640} height={480} /></td>
+                    <td><iframe title="carte_mini_2017_2018" src="https://www.google.com/maps/d/embed?mid=1TKMDluG9jeRmYv53jy9M5c6tWQg" width={640} height={480} /></td>
                     <td valign="top">
                         <p>Pour afficher l'intégralité des Mini-Entreprises, développez le menu intégré de la carte :</p>
                         <p><img src="/images/Systeme/My-maps-dev.png" alt="Menu intégré" title="Menu intégré" /></p>
@@ -26,7 +26,7 @@ const Entreprise20162018 = ()=>({
                 <table cellSpacing={0} cellPadding={0} border={0}>
                 <tbody>
                     <tr>
-                    <td><iframe src="https://www.google.com/maps/d/embed?mid=1F_DYgEHyOBoBx0FZce70EKc4_9E" width={640} height={480} /></td>
+                    <td><iframe title="carte_mini_2016_2017" src="https://www.google.com/maps/d/embed?mid=1F_DYgEHyOBoBx0FZce70EKc4_9E" width={640} height={480} /></td>
                     <td valign="top">
                         <p>Pour afficher l'intégralité des Mini-Entreprises, développez le menu intégré de la carte :</p>
                         <p><img src="/images/Systeme/My-maps-dev.png" alt="Menu intégré" title="Menu intégré" /></p>
@@ -104,7 +104,7 @@ const Entreprise20162018 = ()=>({
                 <div className="gcore-input-wide pull-left gcore-sub-input gcore-display-table" id="fin-captcha1"><input placeholder size="40 px" className="validate['required'] form-control A" title style={{}} name="captcha" id="captcha1" type="text" /><span className="help-block">Saisissez le code de sécurité pour soumettre le formulaire</span></div></div>
               <div className="gcore-subinput-container-wide" id="fitem5"><div className="gcore-input pull-left gcore-sub-input gcore-display-table" id="fin-captcha2"><img src="http://www.lje.be/index.php?option=com_chronoforms5&act=render&action=load_captcha&chronoform=correction-donnees-mini-my-maps-2016-2017&action_id=16&tvout=ajax&rand=1702699141" alt="captcha" /></div></div></div><p><font color="#FF0000"><strong>Attention, si vous envoyer une image, l'envoi nécesssitera plus ou moins de temps.<br />
                   Après avoir cliqué sur le bouton "soumettre les données" ne fermez pas cette page avant d'avoir eu la confirmation de l'envoi du formulaire</strong></font></p><div className="form-group gcore-form-row" id="form-row-multi-54"><div className="gcore-subinput-container" id="fitem-button54"><div className="gcore-input pull-left gcore-sub-input gcore-display-table" id="fin-button54"><input name="button54" id="button54" defaultValue="Soumettre les données" className="btn btn-default form-control A" style={{}} data-load-state type="submit" /></div></div>
-              <div className="gcore-subinput-container" id="fitem-button55"><div className="gcore-input pull-left gcore-sub-input gcore-display-table" id="fin-button55"><input name="button55" id="button55" defaultValue="Effacer les données" className="btn btn-default form-control A" style={{}} data-load-state type="reset" /></div></div></div></form><p className="chrono_credits"><a href="http://www.chronoengine.com" target="_blank">Powered by ChronoForms - ChronoEngine.com</a></p></div><p /> 	</section>
+              <div className="gcore-subinput-container" id="fitem-button55"><div className="gcore-input pull-left gcore-sub-input gcore-display-table" id="fin-button55"><input name="button55" id="button55" defaultValue="Effacer les données" className="btn btn-default form-control A" style={{}} data-load-state type="reset" /></div></div></div></form><p className="chrono_credits"><a href="http://www.chronoengine.com" target="_blank" rel = "noopener noreferrer">Powered by ChronoForms - ChronoEngine.com</a></p></div><p /> 	</section>
       );
     }
   });
