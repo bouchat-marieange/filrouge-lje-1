@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Presentation from './component/Presenation/Presentation';
+import Presentation from './component/Presentation/Presentation';
 
 
 /*import './App.css';
@@ -16,9 +16,9 @@ class App extends Component {
       <div className="App">
           <Presentation/>
 
-          
 
-        
+
+
 
       </div>
     );
@@ -26,4 +26,3 @@ class App extends Component {
 }
 
 export default App;
- 

@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 
 import registerServiceWorker from './registerServiceWorker';
 import App from './App';
+import Presentation from './component/Presentation/Presentation';
 import Actualite from './component/Actualite/Actualite';
 import Entreprise20162018 from './component/Entreprise20162018/Entreprise20162018';
 import Outil from './component/Outil/Outil';
@@ -23,7 +24,7 @@ const Root = () => {
                 <Header/>
                 <div className="bg" style={{position:'absolute', width:'20%',height:'100vh',  backgroundColor: 'rgb(38, 103, 189)'}}></div>
                 <Navbar>
-                    <NavLink to="/App">Présentation des minis entreprises</NavLink>
+                    <NavLink to="/Presentation">Présentation des minis entreprises</NavLink>
                     <NavLink to="/Actualite">Actualités des minis entreprises</NavLink>
                     <NavLink to="/entreprise20162018">Les minis Entreprise2016-2018</NavLink>
                     <NavLink to="/Outil">Outils en ligne</NavLink>
@@ -32,6 +33,7 @@ const Root = () => {
                 <div className="content"  style={{marginTop:'100px'}}>
                     <Switch>
                         <Route exact path='/' component={App}/>
+                        <Route exact path='/Presentation' component={Presentation}/>
                         <Route exact path='/Actualite' component={Actualite}/>
                         <Route exact path='/Entreprise20162018' component={Entreprise20162018}/>
                         <Route exact path='/Outil' component={Outil}/>
