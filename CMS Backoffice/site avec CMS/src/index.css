@@ -77,7 +77,7 @@ nav{
 
 .float{
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   background: rgb(61, 118, 194);
   font-weight: bold;
   color: black;
