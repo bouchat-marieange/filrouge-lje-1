@@ -3,7 +3,7 @@
 function connect($pseudo,$password)
 {
     //$hash=password_hash($password,PASSWORD_DEFAULT);
-    $bdd=init_DB();
+    $bdd=db();
     $stmt = $bdd->prepare("SELECT * FROM administrateurs WHERE username= :pseudo AND password = :password  ");
     $stmt->execute(['pseudo'=>$pseudo,'password'=>$password]);
     $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
