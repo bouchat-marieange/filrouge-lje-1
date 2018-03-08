@@ -32,14 +32,21 @@ $f3->route('GET /admin/actualite/list',function($f3) {
   $f3->set("all_actu",get_actu());
   echo \Template::instance()->render('views/actu_list.html');
 });
-$f3->route('GET /admin/actualite/id/@id',function() {
+$f3->route('GET /admin/actualite/edit/@id',function($f3) {
+  $actu=get_actu_id($f3->PARAMS["id"]);
+  foreach ($actu as $key => $value) {
+    $f3->set($key,$value);
+  }
   echo \Template::instance()->render('views/actu_edit.html');
 });
-$f3->route('POST /admin/actualite/edit/@id',function() {
+$f3->route('POST /admin/actualite/edit/',function($f3) {
   //echo \Template::instance()->render('');
+  update_actu($_POST);
+  $f3->set("id",$_POST['id']);
+  $f3->reroute('/admin/actualite/edit/@id');
 });
 $f3->route('GET /admin/actualite/new',function() {
-  //echo \Template::instance()->render('');
+  echo \Template::instance()->render('views/actu_add.html');
 });
 $f3->route('POST /admin/actualite/new',function($f3) {
   $f3->set("id",create_actu($_POST));
