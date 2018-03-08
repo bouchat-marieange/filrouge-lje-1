@@ -1,3 +1,8 @@
+html, body
+{
+  height: 100%;
+}
+
 .nav-wrapper {
   background-color: rgb(38, 103, 189);
   color: black;
@@ -16,7 +21,7 @@
 
 .hide-on-med-and-down{
   background-color: rgb(38, 103, 189);
-  
+
 }
 .content{
   width: 75%;
@@ -39,13 +44,13 @@ nav{
 }
 #foot{
   background-color:  rgb(38, 103, 189);
-  
+
 }
 #mail-input{
   width: 150px;
   font-weight: bold;
   color: black;
- 
+
   display: inline-block;
 
 }
@@ -53,7 +58,7 @@ nav{
   width: 150px;
   font-weight: bold;
   color: black;
-  
+
   display:inline-block;
 }
 #enregistrer-input{
@@ -67,7 +72,7 @@ nav{
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
- 
+
 }
 
 .float{
