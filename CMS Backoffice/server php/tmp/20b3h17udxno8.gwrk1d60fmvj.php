@@ -6,7 +6,7 @@
   </head>
   <body>
     <?php foreach (($all_actu?:[]) as $actu): ?>
-      <a href="actualite/id/<?= $actu['id'] ?>"><?= $actu['nom_evenement'] ?></a>
+      <a href="id/<?= $actu['id'] ?>"><?= $actu['nom_evenement'] ?></a>
     <?php endforeach; ?>
 
   </body>
