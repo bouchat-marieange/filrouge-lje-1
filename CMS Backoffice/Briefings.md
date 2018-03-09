@@ -72,6 +72,8 @@ L'objectif pédagogique étant d'intégrer les opérations CRUD, après concerta
 
 ## Dispatching des différentes tâches
 
+Voir Kaban du repo github
+
 **Antoine:** 
 
 * Création premières maquettes Figma pour le backend
