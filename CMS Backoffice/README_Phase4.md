@@ -68,18 +68,6 @@ Temps imparti: 30 jours, en groupe.
 * Créer un CMS pour permettre au client de facilement mettre à jour l’agenda et les news concernant les minis entreprises.
 
 
-### Contraintes externes
-
-#### Absence des membres de l'équipe
-
-**Absence Marie-Ange Bouchat**
-
-* Le 9 février 2018 - toute la journée(entretien stage)
-* Le 12 février 2018 - matinée (entretien stage)
-
-**Absence Nicolas Van Roos**
-
-* Le 13 février 2018 - toute la journée (maladie)
 
 
 
