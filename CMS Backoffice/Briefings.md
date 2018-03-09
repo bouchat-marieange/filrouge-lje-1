@@ -74,13 +74,28 @@ L'objectif pédagogique étant d'intégrer les opérations CRUD, après concerta
 
 **Antoine:** 
 
-* 
+* Création premières maquettes Figma pour le backend
+* Backend et deploiement du site sur hébergeur gratuit
+* Gestion des routes (framework Fatfree)
+* Gestion de la communication du site existant en react avec notre DB MySQL  et PHP pour pouvoir réaliser les opérations CRUD
 
 **Marie-Ange:** 
 
-* 
+* Récupération et mise au format texte brut des contenu de la page actualité pour tester le CRUD (format respectant les champs de la DB que nous avons créer)
+* Création de la DB MySQL (2 tables : administrateurs et actualites)
+* Création de la page Agenda (React)
+* Ajout dans les routes et les menus de la page Agenda (React)
+* Encodage directement via phpMyAdmin de quelques Actualités pour tester le READ du CRUD
+* Création maquette Figma définitive après suppression de la page Agenda à insérer dans le CMS (page login, actu_add , actu_edit)
+* Intégration HTML/CSS des pages de backend login , ajout actu et modification actu.
+* Testing et communication avec Antoine des corrections à effectuer au niveau du backend
+* Organisation réunion briefing
+* Ajout issues et tenue du Kaban GitHub tout au long du projet
+* Rédaction des compte rendu de briefing et communication sur Ryver pour centraliser les infos
+* Communication des livrables par mail au coach le jour de la deadline.
+
  
 **Nicolas:** 
 
-* 
+* /
 
