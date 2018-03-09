@@ -2,7 +2,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import registerServiceWorker from './registerServiceWorker';
 import App from './App';
 import Presentation from './component/Presentation/Presentation';
 import Actualite from './component/Actualite/Actualite';
@@ -54,4 +53,3 @@ const Root = () => {
 }
 
 ReactDOM.render(<Root/>, document.getElementById('root'));
-registerServiceWorker();
