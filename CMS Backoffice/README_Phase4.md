@@ -6,17 +6,18 @@ Repository Github à forker (multipage): https://github.com/stevegravy/filrouge-
 
 Site multipage réalisé à la phase 3 : https://filrougeg1.herokuapp.com/
 
-Accès au CMS (opération crud) via l'adresse URL : 
+Site incluant CMS pour la page Agenda réalisé à la phase 4 : https://app-1520537738.000webhostapp.com/ (accueil)
+
+Accès au CMS (opération crud) via l'adresse URL : https://app-1520537738.000webhostapp.com/admin (admin)
+
 
 **Code accèss CMS CRUD :**
 
-User: admin 
-pass: admin 
+User: admin  - pass: admin 
 
 ou 
 
-User: redacteur 
-pass: redacteur
+User: redacteur - pass: redacteur
 
 
 ## Modification du groupe
@@ -27,7 +28,7 @@ Afin de répondre aux besoins des différentes équipes, il a été décidé de 
 * VAN ROOST Nicolas
 * BOUCHAT Marie-Ange
 
-
+Répartition des tâches voir Kaban github du projet.
 
 
 ## Contraintes (enoncé exercice et cahier de charges)
@@ -67,18 +68,6 @@ Temps imparti: 30 jours, en groupe.
 * Créer un CMS pour permettre au client de facilement mettre à jour l’agenda et les news concernant les minis entreprises.
 
 
-### Contraintes externes
-
-#### Absence des membres de l'équipe
-
-**Absence Marie-Ange Bouchat**
-
-* Le 9 février 2018 - toute la journée(entretien stage)
-* Le 12 février 2018 - matinée (entretien stage)
-
-**Absence Nicolas Van Roos**
-
-* Le 13 février 2018 - toute la journée (maladie)
 
 
 
