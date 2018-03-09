@@ -6,9 +6,9 @@ Repository Github à forker (multipage): https://github.com/stevegravy/filrouge-
 
 Site multipage réalisé à la phase 3 : https://filrougeg1.herokuapp.com/
 
-Site incluant CMS pour la page Actualité réalisé à la phase 4 : https://app-1520537738.000webhostapp.com/ (accueil)
+Site incluant CMS pour la page Actualité réalisé à la phase 4 : https://becodegroupe3.000webhostapp.com/
 
-Accès au CMS (opération crud) via l'adresse URL : https://app-1520537738.000webhostapp.com/admin (admin)
+Accès au CMS (opération crud) via l'adresse URL : https://becodegroupe3.000webhostapp.com/admin
 
 
 **Code accèss CMS CRUD :**
