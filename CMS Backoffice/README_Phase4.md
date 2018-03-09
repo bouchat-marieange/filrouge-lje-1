@@ -28,7 +28,7 @@ Afin de répondre aux besoins des différentes équipes, il a été décidé de 
 * VAN ROOST Nicolas
 * BOUCHAT Marie-Ange
 
-
+Répartition des tâches voir Kaban github du projet.
 
 
 ## Contraintes (enoncé exercice et cahier de charges)
