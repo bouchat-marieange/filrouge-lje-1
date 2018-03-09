@@ -10,15 +10,14 @@ Site incluant CMS pour la page Agenda réalisé à la phase 4 : https://app-1520
 
 Accès au CMS (opération crud) via l'adresse URL : https://app-1520537738.000webhostapp.com/admin (admin)
 
+
 **Code accèss CMS CRUD :**
 
-User: admin 
-pass: admin 
+User: admin  - pass: admin 
 
 ou 
 
-User: redacteur 
-pass: redacteur
+User: redacteur - pass: redacteur
 
 
 ## Modification du groupe
